@@ -14,12 +14,17 @@
             "name": "Bayu Hendra",
             "email": "uyab.exe@gmail.com",
             "homepage": "https://github.com/uyab"
+        },
+        {
+            "name": "Ramon Smit",
+            "email": "ramon@daltcore.com",
+            "homepage": "https://github.com/ramonsmit"
         }
     ],
     "require": {
-        "illuminate/support": "~5.2",
-        "illuminate/console": "~5.2",
-        "illuminate/filesystem": "~5.2"
+        "illuminate/support": "^8.0",
+        "illuminate/console": "^8.0",
+        "illuminate/filesystem": "^8.0"
     },
     "autoload": {
         "psr-4": {
