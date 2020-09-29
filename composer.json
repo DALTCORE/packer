@@ -1,5 +1,5 @@
 {
-    "name": "laravolt/packer",
+    "name": "daltcore/packer",
     "description": "A cli tool for creating Laravel packages.",
     "keywords": [
         "Packer",
