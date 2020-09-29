@@ -6,7 +6,7 @@ This package provides you with a simple tool to set up a new Laravel package. It
 
 Via Composer
 
-    $ composer require laravolt/packer
+    $ composer require daltcore/packer
 
 Then add the service provider in `config/app.php`:
 
